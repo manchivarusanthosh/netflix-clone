@@ -1,4 +1,3 @@
-import axios from "axios";
 import React, { useEffect, useState } from "react";
 import requests from "../../requests.js";
 import instance from "../../axios";
